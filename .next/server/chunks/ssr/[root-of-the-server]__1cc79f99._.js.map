@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 12, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/house/OneDrive/Desktop/Next.js%20project/newproject/app/sign-in/%5B%5B...sign-in%5D%5D/page.tsx"],"sourcesContent":["import { SignIn } from '@clerk/nextjs'\r\n\r\nexport default function Page() {\r\n  return <SignIn />\r\n}"],"names":[],"mappings":";;;;;AAAA;;;AAEe,SAAS;IACtB,qBAAO,8OAAC,gMAAM;;;;;AAChB","debugId":null}}]
+}

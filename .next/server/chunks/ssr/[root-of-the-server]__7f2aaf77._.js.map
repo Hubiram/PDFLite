@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 15, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/house/OneDrive/Desktop/Next.js%20project/newproject/app/page.tsx"],"sourcesContent":["import { Button } from \"@/components/ui/button\";\nimport Image from \"next/image\";\nimport HeroSection from \"@/components/home/hero-section\";\n\nexport default function Home() { \n  return (\n    <div className=\"relative w-full\">\n    {/*  <HeroSection />\n\n      <HowItWorks />\n\n      <PricingSection />\n\n      <CTASection />*/}\n    </div>\n  );\n}\n"],"names":[],"mappings":";;;;;;AAIe,SAAS;IACtB,qBACE,8OAAC;QAAI,WAAU;;;;;;AAUnB","debugId":null}}]
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/house/OneDrive/Desktop/Next.js%20project/newproject/components/common/motion-wrapper.tsx"],"sourcesContent":["\"use client\";\r\n\r\nimport { motion } from 'framer-motion';\r\n\r\nexport const MotionDiv = motion.div;\r\n\r\nexport const MotionSection = motion.section;\r\n\r\nexport const MotionH1 = motion.h1;\r\n\r\nexport const MotionH2 = motion.h2;\r\n\r\nexport const MotionH3 = motion.h3;\r\n\r\nexport const MotionP = motion.p;\r\n\r\nexport const MotionSpan = motion.span;"],"names":[],"mappings":";;;;;;;;;;;;;;;;AAEA;AAFA;;AAIO,MAAM,YAAY,qNAAM,CAAC,GAAG;AAE5B,MAAM,gBAAgB,qNAAM,CAAC,OAAO;AAEpC,MAAM,WAAW,qNAAM,CAAC,EAAE;AAE1B,MAAM,WAAW,qNAAM,CAAC,EAAE;AAE1B,MAAM,WAAW,qNAAM,CAAC,EAAE;AAE1B,MAAM,UAAU,qNAAM,CAAC,CAAC;AAExB,MAAM,aAAa,qNAAM,CAAC,IAAI","debugId":null}}]
+}

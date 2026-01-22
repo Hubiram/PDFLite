@@ -1,0 +1,15 @@
+{
+  "pages": {
+    "/api/uploadthing/route": [
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_4bab2194._.js",
+      "static/chunks/aed09_next_dist_compiled_react-dom_b4bf6ef0._.js",
+      "static/chunks/aed09_next_dist_compiled_next-devtools_index_513e686e.js",
+      "static/chunks/aed09_next_dist_compiled_e0c17161._.js",
+      "static/chunks/aed09_next_dist_client_376ba1ae._.js",
+      "static/chunks/aed09_next_dist_a7230d45._.js",
+      "static/chunks/aed09_@swc_helpers_cjs_a3d54739._.js",
+      "static/chunks/newproject_a0ff3932._.js",
+      "static/chunks/turbopack-newproject_816ecb8e._.js"
+    ]
+  }
+}

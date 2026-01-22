@@ -1,0 +1,26 @@
+{
+  "pages": {
+    "/(logged-in)/summaries/[id]/page": [
+      "static/chunks/aed09_next_dist_9201f833._.js",
+      "static/chunks/newproject_app_favicon_ico_mjs_3d56c810._.js",
+      "static/chunks/[root-of-the-server]__f38d1b1d._.css",
+      "static/chunks/aed09_@clerk_nextjs_dist_esm_app-router_1ab71120._.js",
+      "static/chunks/aed09_43e7d5c1._.js",
+      "static/chunks/newproject_bcb0a059._.js",
+      "static/chunks/newproject_app_layout_tsx_54c1eaea._.js",
+      "static/chunks/aed09_next_dist_client_components_builtin_global-error_d21274e1.js",
+      "static/chunks/aed09_d6d7e3eb._.js",
+      "static/chunks/newproject_40e9a91f._.js",
+      "static/chunks/newproject_app_(logged-in)_summaries_[id]_page_tsx_d21274e1._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_4bab2194._.js",
+      "static/chunks/aed09_next_dist_compiled_react-dom_b4bf6ef0._.js",
+      "static/chunks/aed09_next_dist_compiled_next-devtools_index_513e686e.js",
+      "static/chunks/aed09_next_dist_compiled_e0c17161._.js",
+      "static/chunks/aed09_next_dist_client_376ba1ae._.js",
+      "static/chunks/aed09_next_dist_a7230d45._.js",
+      "static/chunks/aed09_@swc_helpers_cjs_a3d54739._.js",
+      "static/chunks/newproject_a0ff3932._.js",
+      "static/chunks/turbopack-newproject_816ecb8e._.js"
+    ]
+  }
+}
